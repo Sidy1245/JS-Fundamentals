@@ -1,3 +1,3 @@
 // intro of javascript
-const myVar = "javascript is amazing"
+const myVar = "Javascript is amazing"
 console.log(myVar)
